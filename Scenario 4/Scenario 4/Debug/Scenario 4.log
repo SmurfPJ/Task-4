@@ -1,0 +1,4 @@
+﻿  Scenario 4.cpp
+C:\Users\270174016\OneDrive - UP Education\Documents\Assignments\105-Assignments\Scenario 4\Scenario 4\Scenario 4\Scenario 4.cpp(163,6): warning C4101: 'randHeight': unreferenced local variable
+C:\Users\270174016\OneDrive - UP Education\Documents\Assignments\105-Assignments\Scenario 4\Scenario 4\Scenario 4\Scenario 4.cpp(162,6): warning C4101: 'randWeight': unreferenced local variable
+  Scenario 4.vcxproj -> C:\Users\270174016\OneDrive - UP Education\Documents\Assignments\105-Assignments\Scenario 4\Scenario 4\Debug\Scenario 4.exe
